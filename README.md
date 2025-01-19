@@ -1,5 +1,6 @@
 # HW 2 Applied Python
 # FOR SCREENSHOTS CHECK THE RESPECTIVE DIRECTORY!
+## The screenshots folder includes both tg bot working and render.com success deploy + logging logic.
 **Author**: Timur Lugovtsev  
 **TG Nickname**: [@big_iron_bot](https://t.me/big_iron_bot)  
 
@@ -27,7 +28,7 @@
 - **Telegram Bot Framework**: [aiogram](https://docs.aiogram.dev/en/latest/)
 - **API Integration**: [OpenWeatherMap API](https://openweathermap.org/api) (for weather data)
 - **Food Data Source**: [OpenFoodFacts API](https://world.openfoodfacts.org/data)
-
+- **Deploy service**: [render](https://render.com/)
 
 ---
 
