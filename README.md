@@ -1,5 +1,5 @@
 # HW 2 Applied Python
-
+# FOR SCREENSHOTS CHECK THE RESPECTIVE DIRECTORY!
 **Author**: Timur Lugovtsev  
 **TG Nickname**: [@big_iron_bot](https://t.me/big_iron_bot)  
 
